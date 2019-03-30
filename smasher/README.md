@@ -9,7 +9,7 @@
 ## Execution
 
 ```
-git clone https://gitlab.com/epi052/htb-scripts-for-retired-boxes.git
+git clone https://github.com/epi052/htb-scripts-for-retired-boxes.git
 cd htb-scripts-for-retired-boxes/smasher
 python tiny-web-server-exploit.py
 ```
@@ -23,7 +23,7 @@ python tiny-web-server-exploit.py
 ## Execution
 
 ```
-git clone https://gitlab.com/epi052/htb-scripts-for-retired-boxes.git
+git clone https://github.com/epi052/htb-scripts-for-retired-boxes.git
 cd htb-scripts-for-retired-boxes/smasher
 python smasher-padding-oracle.py -b 16 'irRmWB7oJSMbtBC4QuoB13DC08NI06MbcWEOc94q0OXPbfgRm+l9xHkPQ7r7NdFjo6hSo6togqLYITGGpPsXdg==' 10.10.10.89
 ```
@@ -35,7 +35,7 @@ python smasher-padding-oracle.py -b 16 'irRmWB7oJSMbtBC4QuoB13DC08NI06MbcWEOc94q
 Upload script to target or type it out, etc...
 
 ```
-git clone https://gitlab.com/epi052/htb-scripts-for-retired-boxes.git
+git clone https://github.com/epi052/htb-scripts-for-retired-boxes.git
 cd htb-scripts-for-retired-boxes/smasher
 
 ... get escalate.sh to target ...

@@ -3,7 +3,7 @@
 ## Build
 
 ```
-git clone https://gitlab.com/epi052/htb-scripts-for-retired-boxes.git
+git clone https://github.com/epi052/htb-scripts-for-retired-boxes.git
 cd htb-scripts-for-retired-boxes/tartarsauce
 python3 -m pip install pyinotify --target triggered
 python3 -m zipapp -p "/usr/bin/env python3" triggered

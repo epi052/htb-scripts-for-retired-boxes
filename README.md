@@ -8,3 +8,4 @@ Just a place to share some things I've written while participating in Hack The B
 4. [Reddish - Multiple Scripts](/reddish)
 5. [Zipper - Zabbix API RCE tool](/zipper)
 6. [Frolic - Buffer Overflow Script](/frolic)
+7. [Curling - Golang HTTP Fileserver/Dirty-Sock Payload Generator](/curling)
