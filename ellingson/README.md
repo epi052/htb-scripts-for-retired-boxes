@@ -4,7 +4,7 @@ Exploits buffer overflow in `garbage` SUID bit binary on HTB's ellingson box.  B
 
 # Example run on HTB's Ellingson:
 
-`python ellingson-exploit.py
+`python ellingson-exploit.py`
 
 ### Requirements
 
